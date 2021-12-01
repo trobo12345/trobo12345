@@ -1,9 +1,9 @@
 *************About Me*************
 -------------------------------------------------------------------
-- Hy, i'm a beginner developer! 
-- I'm 15 Years old.
-- Programing laguages that i speak: HTML, LUA, css and a little Java.
-- I want to learn: JavaScript, Python, C/C++, PHP, Rust and C#
++ Hy, i'm a beginner developer! 
++ I'm 15 Years old.
++ Programing laguages that i speak: HTML, LUA, css and a little Java.
++ I want to learn: JavaScript, Python, C/C++, PHP, Rust and C#
 
 *************Some of that discord servers where i work*************
 -------------------------------------------------------------------
