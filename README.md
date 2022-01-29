@@ -13,8 +13,8 @@
 - **SkyRox Minecraft**
  https://discord.gg/4SbHaXtUGP
 
-- My Friend **@Daveeeu's** discord server:
- https://discord.gg/kZCxtbsuRq
+- Our discord server:
+ https://discord.gg/rykRwVDBYU
 
 - **BoostMeUp**, the best steam hour booster discord server
  https://discord.gg/dTmREQHudm
