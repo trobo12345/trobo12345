@@ -1,7 +1,6 @@
 *************ABOUT ME*************
 -------------------------------------------------------------------
 + Hy, i'm a beginner developer! 
-+ I'm 16 Years old.
 + Programing laguages that i do: HTML, LUA, css and a little Java.
 + I want to learn: C/C++, Rust and C#
 
