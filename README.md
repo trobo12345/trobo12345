@@ -1,29 +1,49 @@
-*************ABOUT ME*************
--------------------------------------------------------------------
-+ Hy, i'm a beginner developer! 
-+ Programing laguages that i do: HTML, LUA, css and a little Java.
-+ I want to learn: C/C++, Rust and C#
+# Üdvözöllek a GitHub profilomon!
 
--------------------------------------------------------------------
-<br/>
+Szia, Roby vagyok, AKA **trobo12345**.
 
-*************TOOLS THAT I USE*************
-<br/>
+## Bemutatkozás
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-<img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
+Jelenleg fejlesztőként dolgozom a [Revolution Roleplay](https://revorp.com) csapatánál, de szabadúszó munkákat és egyéb projekteket is vállalok. Ha érdekel a munkám, kereshetsz emailben vagy Discordon is!
 
+## FreeCodeCamp Tanúsítványok
 
-<br/>
-<br/>
+- **Responsive Web Design**  
+  [Tanúsítvány megtekintése](https://www.freecodecamp.org/certification/NRoby/responsive-web-design)
+- **JavaScript Algorithms and Data Structures**  
+  [Tanúsítvány megtekintése](https://www.freecodecamp.org/certification/NRoby/javascript-algorithms-and-data-structures-v8)
+- **Front End Development Libraries**  
+  [Tanúsítvány megtekintése](https://www.freecodecamp.org/certification/NRoby/front-end-development-libraries)
+
+## Használt Technológiák
+
+**Nyelvek:**
+- HTML, CSS, JavaScript
+
+**Keretrendszerek és Könyvtárak:**
+- Bootstrap, jQuery, Sass, React, Redux, Tailwind CSS
+
+**Egyéb fejlesztési területek:**
+- Lua fejlesztés
+
+**Jelenleg tanulom:**
+- C/C++, Rust, C#
+
+## Projektek
+
+Az alábbi projektek segítettek a tanúsítványaim megszerzésében:
+
+- **Random Quote Generator** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/LEPJaPz)
+- **Markdown Previewer** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/pvzxzRG)
+- **Drum Machine** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/WbeaRMb)
+- **JavaScript Calculator** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/ogvaBMM)
+- **25+5 Clock App** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/RNbegje)
+
+## Kapcsolat
+
+- **Email:** *goatkecske1512@gmail.com*
+- **Discord:** **trobo12345**
+
+---
+
+További információkért látogass el a [GitHub profilomra](https://github.com/trobo12345)!
