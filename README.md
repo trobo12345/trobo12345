@@ -42,8 +42,8 @@ Az alábbi projektek segítettek a tanúsítványaim megszerzésében:
 ## Kapcsolat
 
 - **Email:** *goatkecske1512@gmail.com*
-- **Discord:** **trobo12345**
+- **Discord:** **nagyr_**
 
 ---
 
-További információkért látogass el a [GitHub profilomra](https://github.com/trobo12345)!
+További információkért látogass el a [Discord Szerverünkre]([https://github.com/trobo12345](https://discord.gg/yVqV5yaMzA))!
