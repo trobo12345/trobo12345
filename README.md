@@ -1,49 +1,49 @@
-# Üdvözöllek a GitHub profilomon!
+# Welcome to My GitHub Profile!
 
-Szia, Roby vagyok, AKA **trobo12345**.
+Hi, I'm Roby, AKA **trobo12345**.
 
-## Bemutatkozás
+## Introduction
 
-Jelenleg fejlesztőként dolgozom a [Revolution Roleplay](https://revorp.com) csapatánál, de szabadúszó munkákat és egyéb projekteket is vállalok. Ha érdekel a munkám, kereshetsz emailben vagy Discordon is!
+I am currently working as a developer for the [Revolution Roleplay](https://revorp.com) team, but I also take on freelance projects and other assignments. If you're interested in my work, feel free to reach out via email or Discord!
 
-## FreeCodeCamp Tanúsítványok
+## FreeCodeCamp Certifications
 
 - **Responsive Web Design**  
-  [Tanúsítvány megtekintése](https://www.freecodecamp.org/certification/NRoby/responsive-web-design)
+  [View Certificate](https://www.freecodecamp.org/certification/NRoby/responsive-web-design)
 - **JavaScript Algorithms and Data Structures**  
-  [Tanúsítvány megtekintése](https://www.freecodecamp.org/certification/NRoby/javascript-algorithms-and-data-structures-v8)
+  [View Certificate](https://www.freecodecamp.org/certification/NRoby/javascript-algorithms-and-data-structures-v8)
 - **Front End Development Libraries**  
-  [Tanúsítvány megtekintése](https://www.freecodecamp.org/certification/NRoby/front-end-development-libraries)
+  [View Certificate](https://www.freecodecamp.org/certification/NRoby/front-end-development-libraries)
 
-## Használt Technológiák
+## Technologies Used
 
-**Nyelvek:**
+**Languages:**
 - HTML, CSS, JavaScript
 
-**Keretrendszerek és Könyvtárak:**
+**Frameworks and Libraries:**
 - Bootstrap, jQuery, Sass, React, Redux, Tailwind CSS
 
-**Egyéb fejlesztési területek:**
-- Lua fejlesztés
+**Other Development Areas:**
+- Lua development
 
-**Jelenleg tanulom:**
+**Currently Learning:**
 - C/C++, Rust, C#
 
-## Projektek
+## Projects
 
-Az alábbi projektek segítettek a tanúsítványaim megszerzésében:
+The following projects helped me earn my certifications:
 
-- **Random Quote Generator** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/LEPJaPz)
-- **Markdown Previewer** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/pvzxzRG)
-- **Drum Machine** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/WbeaRMb)
-- **JavaScript Calculator** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/ogvaBMM)
-- **25+5 Clock App** – [Kód megtekintése](https://codepen.io/R-bert-Nagy-the-solid/pen/RNbegje)
+- **Random Quote Generator** – [View Code](https://codepen.io/R-bert-Nagy-the-solid/pen/LEPJaPz)
+- **Markdown Previewer** – [View Code](https://codepen.io/R-bert-Nagy-the-solid/pen/pvzxzRG)
+- **Drum Machine** – [View Code](https://codepen.io/R-bert-Nagy-the-solid/pen/WbeaRMb)
+- **JavaScript Calculator** – [View Code](https://codepen.io/R-bert-Nagy-the-solid/pen/ogvaBMM)
+- **25+5 Clock App** – [View Code](https://codepen.io/R-bert-Nagy-the-solid/pen/RNbegje)
 
-## Kapcsolat
+## Contact
 
 - **Email:** *goatkecske1512@gmail.com*
 - **Discord:** **nagyr_**
 
 ---
 
-További információkért látogass el a [Discord Szerverünkre](https://discord.gg/yVqV5yaMzA)!
+For more information, visit our [Discord Server](https://discord.gg/yVqV5yaMzA)!
