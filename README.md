@@ -46,4 +46,4 @@ Az alábbi projektek segítettek a tanúsítványaim megszerzésében:
 
 ---
 
-További információkért látogass el a [Discord Szerverünkre]([https://github.com/trobo12345](https://discord.gg/yVqV5yaMzA))!
+További információkért látogass el a [Discord Szerverünkre](https://discord.gg/yVqV5yaMzA)!
