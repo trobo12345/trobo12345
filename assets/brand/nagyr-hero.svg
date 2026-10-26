@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="312" viewBox="0 0 800 312" role="img" aria-labelledby="title desc">
+  <title id="title">NagyR — Roby</title>
+  <desc id="desc">Self-taught developer. FiveM resources and web interfaces. The black and green Terminal identity of nagyr.eu.</desc>
+  <rect width="800" height="312" fill="#000000"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <g fill="#58ca58" font-size="17">
+      <text x="24" y="39">01</text><text x="24" y="118">02</text>
+      <text x="24" y="199">03</text><text x="24" y="241">04</text>
+    </g>
+    <path d="M66 24V268M88 63H770M88 269H770" stroke="#58ca58" stroke-opacity=".45"/>
+    <text x="90" y="40" fill="#66ff66" font-size="19">NAGYR.EU / DEVELOPER PROFILE</text>
+    <text x="86" y="153" fill="#66ff66" font-size="92" font-weight="700" letter-spacing="-5">NAGYR<tspan fill="#ffffff">_</tspan></text>
+    <text x="90" y="200" fill="#ffffff" font-size="25">FiveM resources &amp; web interfaces</text>
+    <text x="90" y="241" fill="#58ca58" font-size="20">Self-taught. Learning through projects.</text>
+    <text x="90" y="294" fill="#58ca58" font-size="16">[ LUA ]   [ WEB ]   [ WORK IN PROGRESS ]</text>
+  </g>
+</svg>

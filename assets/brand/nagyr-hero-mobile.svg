@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">NagyR — Roby</title>
+  <desc id="desc">Self-taught developer. FiveM resources and web interfaces.</desc>
+  <rect width="480" height="300" fill="#000000"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <path d="M48 24V270M70 61H456M70 238H456" stroke="#255325"/>
+    <g fill="#58ca58" font-size="18"><text x="12" y="41">01</text><text x="12" y="126">02</text><text x="12" y="193">03</text></g>
+    <text x="70" y="41" fill="#66ff66" font-size="22">NAGYR.EU / PROFILE</text>
+    <text x="67" y="146" fill="#66ff66" font-size="78" font-weight="700" letter-spacing="-4">NAGYR<tspan fill="#ffffff">_</tspan></text>
+    <text x="70" y="190" fill="#ffffff" font-size="25">FiveM resources</text>
+    <text x="70" y="220" fill="#ffffff" font-size="25">&amp; web interfaces</text>
+    <text x="70" y="272" fill="#58ca58" font-size="20">SELF-TAUGHT / BUILDING</text>
+  </g>
+</svg>
